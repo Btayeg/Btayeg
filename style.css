@@ -1,5 +1,17 @@
 p {
 	color: black;
 	font-family: 'Changa', sans-serif; 
+}
 
+/* button {
+	padding: 10px;
+	color: blue;
+} */
+
+.potato {
+	color: red;
+}
+
+.tomato{
+	margin: 0;
 }
